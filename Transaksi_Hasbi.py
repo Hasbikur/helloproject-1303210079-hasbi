@@ -1,3 +1,5 @@
+#Tambahan baris buat tugas WGTIK
+
 #Fungsi untuk membaca file teks
 def baca_data(filename):
     
